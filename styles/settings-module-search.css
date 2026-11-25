@@ -1,0 +1,4 @@
+/* Ensure the native tab layout cannot override our dynamic visibility state. */
+.settings-module-search-hidden {
+  display: none !important;
+}
